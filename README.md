@@ -1,1 +1,1 @@
-# likelion_study
+# django_study
